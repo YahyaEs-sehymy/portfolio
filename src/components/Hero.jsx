@@ -74,7 +74,7 @@ const Hero = () => {
             <a href="#projects" className="px-8 py-3 rounded-full bg-[var(--color-accent-blue)] text-white font-medium hover:bg-[var(--color-accent-cyan)] transition-colors shadow-lg shadow-[var(--color-accent-blue)]/20 w-full sm:w-auto">
               Check out my work
             </a>
-            <a href="/Yahya_CV.pdf" download className="px-8 py-3 rounded-full border border-[var(--color-accent-cyan)] text-[var(--color-accent-cyan)] font-medium hover:bg-[var(--color-accent-cyan-glass)] transition-colors w-full sm:w-auto flex items-center justify-center gap-2">
+            <a href="/CV_Yahya_ES-SEHYMY2026.pdf" download className="px-8 py-3 rounded-full border border-[var(--color-accent-cyan)] text-[var(--color-accent-cyan)] font-medium hover:bg-[var(--color-accent-cyan-glass)] transition-colors w-full sm:w-auto flex items-center justify-center gap-2">
               <Download size={18} /> Download CV
             </a>
             <div className="flex items-center gap-4 mt-4 sm:mt-0 sm:ml-4">
